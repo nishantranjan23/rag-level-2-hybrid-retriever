@@ -1,0 +1,9 @@
+Artificial Intelligence (AI) is the field of computer science that focuses on building systems capable of performing tasks that normally require human intelligence. Examples include problem solving, learning from data, speech recognition, decision making, robotics, and natural language understanding.
+
+AI can be divided into categories such as Narrow AI, which performs a specific task, and General AI, which is hypothetical and would match human-level reasoning across many tasks.
+
+Machine Learning (ML) is a subset of AI where systems learn patterns from data instead of being explicitly programmed. Deep Learning is a further subset that uses neural networks with many layers.
+
+Common applications of AI include recommendation systems, fraud detection, chatbots, self-driving cars, image recognition, and predictive analytics.
+
+Limitations of AI include bias in data, lack of explainability, dependence on large datasets, and inability to understand context like humans.

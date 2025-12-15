@@ -1,0 +1,9 @@
+A Mutual Fund is a financial vehicle that pools money from multiple investors to invest in diversified securities such as equities, debt instruments, and money market assets. It is managed by professional fund managers.
+
+Mutual Funds offer benefits such as diversification, liquidity, low investment entry, and expert management. Investors can choose among equity funds, debt funds, hybrid funds, index funds, and sectoral or thematic funds.
+
+Net Asset Value (NAV) represents the market value of each unit of the fund. It is calculated as the total value of the portfolio minus liabilities, divided by the number of outstanding units.
+
+Risks in Mutual Funds include market volatility, interest rate risk, credit risk, and concentration risk. Sectoral and thematic funds carry higher risk due to limited diversification.
+
+Systematic Investment Plan (SIP) allows investors to invest fixed amounts at regular intervals. SIP benefits include rupee-cost averaging and disciplined investing.
