@@ -1,3 +1,10 @@
+<h1 align="center">RAG Level-2 Hybrid Retriever</h1>
+<p align="center">Hybrid retrieval • Persistent Chroma • Deterministic Output</p>
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![LangChain](https://img.shields.io/badge/LangChain-RAG-green)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-orange)
+
 RAG Level-2: Hybrid Retriever (Similarity + MMR)
 
 This repository contains a clean, modular Level-2 Retrieval-Augmented Generation (RAG) system implemented in Python.
@@ -142,3 +149,4 @@ Deterministic LLM output
 Modular RAG pipeline
 
 This forms the foundation for Level-3 features such as metadata filtering, re-ranking, cross-encoders, and fusion retrieval.
+
