@@ -1,10 +1,53 @@
-# Python-generated files
-__pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
+###############################################
+# PYTHON + UV PROJECT IGNORE FILE
+###############################################
 
-# Virtual environments
-.venv
+# --------------------------
+# Python cache
+# --------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --------------------------
+# uv environment
+# --------------------------
+.venv/
+.uv/
+.python-version
+
+# --------------------------
+# Secrets
+# --------------------------
+.env
+*.env
+
+# --------------------------
+# Chroma Vector DB
+# --------------------------
+db_storage/
+**/chroma-collections*
+**/chroma-embeddings*
+**/chroma.sqlite*
+**/index
+
+# --------------------------
+# Data files (never upload large PDFs/text)
+# --------------------------
+data/*.pdf
+data/*.txt
+data/*.md
+data/*.docx
+
+# --------------------------
+# Build + metadata
+# --------------------------
+dist/
+build/
+*.egg-info/
+
+# --------------------------
+# macOS junk
+# --------------------------
+.DS_Store
